@@ -516,26 +516,9 @@ jika hasil tidak kosong:
 
 ---
 
-## 🛟 **Dukungan & Komunitas**
+## 🛟 **Dukungan**
 
-### 💬 **Bergabung dengan Komunitas**
-
-- **Discord**: [Python Simple Community](https://discord.gg/python-simple)
-- **Telegram**: [@PythonSimpleID](https://t.me/PythonSimpleID)
-- **Facebook**: [Python Simple Indonesia](https://facebook.com/groups/pythonsimpleid)
-- **Reddit**: [r/PythonSimple](https://reddit.com/r/PythonSimple)
-
-### 📧 **Kontak**
-
-- **Email**: support@pythonsimple.id
-- **Website**: https://pythonsimple.id
-- **Blog**: https://medium.com/@pythonsimple
-
-### 🆘 **Bantuan**
-
-- **Bug Reports**: [GitHub Issues](https://github.com/yourusername/pys/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/pys/discussions)
-- **Security Issues**: security@pythonsimple.id
+email: arinaranetworkstudio@gmail.com
 
 ---
 
