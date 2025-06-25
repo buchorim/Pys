@@ -15,10 +15,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/pys.svg)](https://github.com/yourusername/pys/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/pys.svg)](https://github.com/yourusername/pys/network)
-[![Issues](https://img.shields.io/github/issues/yourusername/pys.svg)](https://github.com/yourusername/pys/issues)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/pys.svg)](https://github.com/yourusername/pys/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/buchorim/pys.svg)](https://github.com/buchorim/pys/stargazers)
+[![Forks](https://img.shields.io/github/forks/buchorim/pys.svg)](https://github.com/buchorim/pys/network)
+[![Issues](https://img.shields.io/github/issues/yobuchorimm/pys.svg)](https://github.com/buchorim/pys/issues)
+[![Contributors](https://img.shields.io/github/contributors/buchorim/pys.svg)](https://github.com/buchorim/pys/graphs/contributors)
 
 </div>
 
