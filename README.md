@@ -17,7 +17,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/buchorim/pys.svg)](https://github.com/buchorim/pys/stargazers)
 [![Forks](https://img.shields.io/github/forks/buchorim/pys.svg)](https://github.com/buchorim/pys/network)
-[![Issues](https://img.shields.io/github/issues/buchorimm/pys.svg)](https://github.com/buchorim/pys/issues)
+[![Issues](https://img.shields.io/github/issues/buchorim/pys.svg)](https://github.com/buchorim/pys/issues)
 [![Contributors](https://img.shields.io/github/contributors/buchorim/pys.svg)](https://github.com/buchorim/pys/graphs/contributors)
 
 </div>
